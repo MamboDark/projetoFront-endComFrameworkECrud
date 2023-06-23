@@ -24,6 +24,18 @@
 * [EMERSON GREGORIO ALVES](https://github.com/Gregdev22)
 * [NELSON CARVALHO DE LIMA JUNIOR](https://github.com/MamboDark)
 
+## Tecnologias
+
+. NextJs
+
+. TailWindcss
+
+. Java Script
+
+. MongoDb
+
+. Type Script
+
  <h1 align="center"> ⚙️Descrição da Missão  </h1>
  <hr>
 
@@ -68,7 +80,15 @@
 
  <h1 align="center"> ⚒ APLICAÇÃO ⚒ </h1>
  <hr>
-
+    <img width="" alt="Imagem" align = "top" align = "right" src="./img/1 (1).png">
+  <hr>
+    <img width="" alt="Imagem" align = "top" align = "right" src="./img/1 (2).png">
+  <hr>
+    <img width="" alt="Imagem" align = "top" align = "right" src="./img/1 (4).png">
+  <hr>
+      <img width="" alt="Imagem" align = "top" align = "right" src="./img/1 (5).png">
+  <hr>
+  
 ## Configuração do Ambiente
    
    #Porta do app
@@ -79,18 +99,6 @@
 
    O projeto foi desenvolvido para persistir seus dados tanto para Localstorage (modo default) assim como para o banco MongoDb estando instalado , para isso bastaria configurar as informações pertinentes ao banco em .env  e ativar a opção ATIVE_DB= true em 'setDB.ts'
 porem devido a problemas tecnicos com mudança de versão do NextJs de ultima hora, não foi possível concluir a adaptação do acesso ao mongoDB a tempo.     
-  
-## Tecnologias
-
-. NextJs
-
-. TailWindcss
-
-. Java Script
-
-. MongoDb
-
-. Type Script
 
 ### Instalação utilizando docker
 Siga as etapas abaixo para configurar o ambiente:
