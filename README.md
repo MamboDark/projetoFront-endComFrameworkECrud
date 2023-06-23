@@ -3,7 +3,7 @@
    <a href="https://github.com/othneildrew/Best-README-Template">
       <img src="https://github.com/Dev-Team-04/Sistema-de-Gerenciamento-de-Ferramentas/blob/versao_final/estacio_sem_nome.ico" alt="estacio logo" width="80"                  height="80">
    </a>
-    <h1 align="center">FACULDADE ESTÁCIO</h1>
+    <h1 align="center">PROJETO FINAL 2 SEMESTRE PARA FACULDADE ESTÁCIO</h1>
      <hr>
 </div> 
 
@@ -17,12 +17,12 @@
  <h1 align="center"> DEV TEAM 02 </h1>
  <hr>
 
-* [ANDRE LUIZ FERREIRA DE SOUZA](https://github.com/adventureandre) - MATRICULA: 202208604943
-* [JEFFERSON PONTE PESSOA](https://github.com/jeffersonkako) - MATRICULA: 202208291228
-* [MARCO BAROZZI](https://github.com/msbzz) - MATRICULA: 202211381232
-* [AMANDA DUQUE KAWAUCHI](https://github.com/madukisp) - MATRICULA: 202209170254
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 202209084986
-* [NELSON CARVALHO DE LIMA JUNIOR](https://github.com/MamboDark) - MATRICULA: 202208353568
+* [ANDRE LUIZ FERREIRA DE SOUZA](https://github.com/adventureandre)
+* [JEFFERSON PONTE PESSOA](https://github.com/jeffersonkako)
+* [MARCO BAROZZI](https://github.com/msbzz)
+* [AMANDA DUQUE KAWAUCHI](https://github.com/madukisp)
+* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22)
+* [NELSON CARVALHO DE LIMA JUNIOR](https://github.com/MamboDark)
 
  <h1 align="center"> ⚙️Descrição da Missão  </h1>
  <hr>
